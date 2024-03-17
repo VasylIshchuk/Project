@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        // LB 2; Task 4b
+        // LB 3; Task
         Point point1 = new Point(0,0);
         Point point2 = new Point(250,250);
         Segment line = new Segment(point1,point2);
